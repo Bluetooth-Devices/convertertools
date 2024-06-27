@@ -52,8 +52,19 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- prettier-ignore-start -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<!-- markdownlint-enable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.openhomefoundation.org/"><img src="https://avatars.githubusercontent.com/u/109550163?v=4?s=80" width="80px;" alt="Bluetooth Devices"/><br /><sub><b>Bluetooth Devices</b></sub></a><br /><a href="https://github.com/bluetooth-devices/convertertools/commits?author=Bluetooth-Devices" title="Code">💻</a> <a href="#ideas-Bluetooth-Devices" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/bluetooth-devices/convertertools/commits?author=Bluetooth-Devices" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-end -->
 

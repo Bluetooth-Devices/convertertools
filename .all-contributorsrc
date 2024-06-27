@@ -9,7 +9,19 @@
   "imageSize": 80,
   "commit": true,
   "commitConvention": "angular",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "Bluetooth-Devices",
+      "name": "Bluetooth Devices",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109550163?v=4",
+      "profile": "https://www.openhomefoundation.org/",
+      "contributions": [
+        "code",
+        "ideas",
+        "doc"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "skipCi": true
 }
