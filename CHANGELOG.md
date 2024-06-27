@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.4.0 (2024-06-27)
+
+### Feature
+
+
+- Python 3.10 support ([`8ed37cc`](https://github.com/Bluetooth-Devices/convertertools/commit/8ed37cce81ded6e129edece08e1257db6ddcb7e1))
+
+
 ## v0.3.0 (2024-06-27)
 
 ### Fix
