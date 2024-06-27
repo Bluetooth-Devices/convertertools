@@ -40,11 +40,30 @@
 
 Tools for converting python data types
 
+These are very simple tools for manipulating python data structures
+to avoid writing out the same code many times in libraries.
+
 ## Installation
 
 Install this via pip (or your favourite package manager):
 
 `pip install convertertools`
+
+## Usage
+
+Note that specific types are required for maximum performance.
+
+```python
+from convertertools import del_dict_tuple, del_dict_set, pop_dict_tuple, pop_dict_set
+
+# del_dict* raise KeyError on missing keys
+del_dict_tuple(d, ("a", "b"))
+del_dict_set(d, {"a", "b"})
+
+# pop_dict* ignores missing keys
+pop_dict_tuple(d, ("a", "b"))
+pop_dict_set(d, {"a", "b"})
+```
 
 ## Contributors ✨
 
