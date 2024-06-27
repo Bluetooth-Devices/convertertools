@@ -63,6 +63,10 @@ del_dict_set(d, {"a", "b"})
 # pop_dict* ignores missing keys
 pop_dict_tuple(d, ("a", "b"))
 pop_dict_set(d, {"a", "b"})
+
+# pop_dict_set_if_none ignores missing keys and only
+# removes them if their value is None
+pop_dict_set_if_none(d, {"a", "b"})
 ```
 
 ## Contributors ✨

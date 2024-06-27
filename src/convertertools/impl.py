@@ -29,3 +29,10 @@ def pop_dict_set(d: dict[Any, Any], keys: set[Any]) -> None:
     for key in keys:
         if key in d:
             del d[key]
+
+
+def pop_dict_set_if_none(d: dict[Any, Any], keys: set[Any]) -> None:
+    """Pop keys from a dictionary from a set if present and none."""
+    for key in keys:
+        if key in d and d[key] is None:
+            del d[key]

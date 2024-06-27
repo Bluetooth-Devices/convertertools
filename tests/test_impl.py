@@ -4,8 +4,15 @@ from convertertools.impl import (
     del_dict_set,
     del_dict_tuple,
     pop_dict_set,
+    pop_dict_set_if_none,
     pop_dict_tuple,
 )
+
+
+def test_pop_dict_set_if_none():
+    d = {"a": 1, "b": None, "c": 3}
+    pop_dict_set_if_none(d, {"a", "b", "d"})
+    assert d == {"a": 1, "c": 3}
 
 
 def test_del_dict_tuple():
