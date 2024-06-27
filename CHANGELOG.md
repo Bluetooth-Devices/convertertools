@@ -1,5 +1,20 @@
 # Changelog
 
+## v0.2.0 (2024-06-27)
+
+### Feature
+
+
+- Optional delete ([`3f1345b`](https://github.com/Bluetooth-Devices/convertertools/commit/3f1345ba27e8fdbc48b3a74b8b32b5a46f72b73b))
+
+
+- Shorten names ([`1c93006`](https://github.com/Bluetooth-Devices/convertertools/commit/1c930065f05d985907e873b53f8260292641f912))
+
+
+### Unknown
+
+
+
 ## v0.1.0 (2024-06-27)
 
 ### Feature
