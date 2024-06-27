@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.5.0 (2024-06-27)
+
+### Feature
+
+
+- Add pop_dict_set_if_none ([`455b2f6`](https://github.com/Bluetooth-Devices/convertertools/commit/455b2f6bfdf049071aabec1cb9793d846ecb57f1))
+
+
 ## v0.4.1 (2024-06-27)
 
 ### Fix

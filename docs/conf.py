@@ -7,7 +7,7 @@
 project = "convertertools"
 copyright = "2024, J. Nick Koston"
 author = "J. Nick Koston"
-release = "0.4.1"
+release = "0.5.0"
 
 # General configuration
 extensions = [
