@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.2.1 (2024-06-27)
+
+### Unknown
+
+
+
+### Fix
+
+
+- Wheel builds ([`11dc333`](https://github.com/Bluetooth-Devices/convertertools/commit/11dc333b4e0bbedb9fa9feebe602a8e00f4ace3b))
+
+
 ## v0.2.0 (2024-06-27)
 
 ### Feature
