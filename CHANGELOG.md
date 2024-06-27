@@ -1,5 +1,25 @@
 # Changelog
 
+## v0.3.0 (2024-06-27)
+
+### Fix
+
+
+- Drop win32 from ci as there is nothing specific here ([`423d493`](https://github.com/Bluetooth-Devices/convertertools/commit/423d49361dd2e64437b5d9bac04328ad437a237e))
+
+
+### Feature
+
+
+- Expose pop functions ([`7e475f8`](https://github.com/Bluetooth-Devices/convertertools/commit/7e475f8bd40ac716d42bfa3c8800e6241e9de7ff))
+
+
+- Add readme ([`367485d`](https://github.com/Bluetooth-Devices/convertertools/commit/367485d10e1a8b495b124115e91cb415ddf85e6c))
+
+
+- Test with cython and no cython ([`79ca20a`](https://github.com/Bluetooth-Devices/convertertools/commit/79ca20aeb795c7dab851c1ae4644f92b86f5a6fb))
+
+
 ## v0.2.2 (2024-06-27)
 
 ### Unknown
