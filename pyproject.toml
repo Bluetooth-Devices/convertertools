@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "convertertools"
-version = "0.4.0"
+version = "0.4.1"
 description = "Tools for converting python data types"
 authors = ["J. Nick Koston <nick@koston.org>"]
 license = "MIT"

@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.4.1 (2024-06-27)
+
+### Fix
+
+
+- Loosen version constrain for python ([`7c9aa8c`](https://github.com/Bluetooth-Devices/convertertools/commit/7c9aa8c89ec419a7088815868a6dbad04a6f1ff8))
+
+
 ## v0.4.0 (2024-06-27)
 
 ### Feature
