@@ -22,8 +22,12 @@ packages = [
 "Bug Tracker" = "https://github.com/bluetooth-devices/convertertools/issues"
 "Changelog" = "https://github.com/bluetooth-devices/convertertools/blob/main/CHANGELOG.md"
 
+[tool.poetry.build]
+generate-setup-file = true
+script = "build_ext.py"
+
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.11"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.0.0"
@@ -149,6 +153,7 @@ allow_untyped_defs = true
 module = "docs.*"
 ignore_errors = true
 
+
 [build-system]
-requires = ["poetry-core>=1.0.0"]
+requires = ['setuptools>=65.4.1', 'Cython', "poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
