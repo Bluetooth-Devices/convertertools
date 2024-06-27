@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.2.2 (2024-06-27)
+
+### Unknown
+
+
+
+### Fix
+
+
+- Add pop functions ([`b491626`](https://github.com/Bluetooth-Devices/convertertools/commit/b491626bb0cc84f82a76bc8462b1ed00009ebfb0))
+
+
 ## v0.2.1 (2024-06-27)
 
 ### Unknown
