@@ -12,6 +12,6 @@ __all__ = [
     "del_dict_set",
     "del_dict_tuple",
     "pop_dict_set",
-    "pop_dict_tuple",
     "pop_dict_set_if_none",
+    "pop_dict_tuple",
 ]
