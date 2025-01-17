@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.6.0 (2025-01-17)
+
+### Feature
+
+
+- Add aarch64 wheels (#18) ([`acc4b49`](https://github.com/Bluetooth-Devices/convertertools/commit/acc4b49789b978c51aaf40727235be8de3eade49))
+
+
+### Unknown
+
+
+
 ## v0.5.0 (2024-06-27)
 
 ### Feature
