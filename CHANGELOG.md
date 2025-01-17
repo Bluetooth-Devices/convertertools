@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.6.1 (2025-01-17)
+
+### Fix
+
+
+- Rebuild wheels (#19) ([`02019d3`](https://github.com/Bluetooth-Devices/convertertools/commit/02019d39ff0dd7cc1ba25024704cdeaf96f58c58))
+
+
 ## v0.6.0 (2025-01-17)
 
 ### Feature
