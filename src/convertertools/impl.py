@@ -20,15 +20,13 @@ def del_dict_set(d: dict[Any, Any], keys: set[Any]) -> None:
 def pop_dict_tuple(d: dict[Any, Any], keys: tuple[Any, ...]) -> None:
     """Pop keys from a dictionary from a tuple if present."""
     for key in keys:
-        if key in d:
-            del d[key]
+        d.pop(key, None)
 
 
 def pop_dict_set(d: dict[Any, Any], keys: set[Any]) -> None:
     """Pop keys from a dictionary from a set if present."""
     for key in keys:
-        if key in d:
-            del d[key]
+        d.pop(key, None)
 
 
 def pop_dict_set_if_none(d: dict[Any, Any], keys: set[Any]) -> None:
