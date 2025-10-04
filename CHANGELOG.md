@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.1.0 (2025-10-04)
+
+### Features
+
+
+- Update poetry to v2 ([`1f5e261`](https://github.com/Bluetooth-Devices/convertertools/commit/1f5e2614bae56ffb4bb020c8544517b321631842))
+
+
 ## v1.0.0 (2025-10-04)
 
 ## v0.6.1 (2025-01-17)
