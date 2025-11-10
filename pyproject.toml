@@ -33,7 +33,7 @@ script = "build_ext.py"
 python = ">=3.10"
 
 [tool.poetry.group.dev.dependencies]
-pytest = "^8.0.0"
+pytest = "^9.0.0"
 pytest-cov = ">=5,<8"
 pytest-codspeed = ">=3"
 
